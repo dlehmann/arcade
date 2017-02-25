@@ -1,0 +1,47 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=pcb
+*Date=14:51:32
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;77.0599;-86.3775;-90;Bottom;TXT2
+2;;;77.0469;-15.2493;-90;Bottom;TXT2
+3;100k;THT;47.2508;-102.565;0;Bottom;R2
+4;100k;THT;47.2508;-58.1153;0;Bottom;R9
+5;100k;THT;47.2508;-89.8653;0;Bottom;R4
+6;100k;THT;47.2508;-64.4653;0;Bottom;R8
+7;100k;THT;47.2508;-51.7653;0;Bottom;R10
+8;;THT;67.3168;-60.7823;0;Bottom;button connector
+9;;;77.0322;-55.8575;-90;Bottom;TXT2
+10;100k;THT;47.2508;-77.1653;0;Bottom;R6
+11;;;77.0367;-66.0019;-90;Bottom;TXT2
+12;;;77.1576;-96.4842;-90;Bottom;TXT2
+13;;;18.7181;-76.6855;0;Bottom;TXT1
+14;100k;THT;47.2508;-96.2153;0;Bottom;R3
+15;100k;THT;47.2508;-83.5153;0;Bottom;R5
+16;;;44.4837;-24.6074;0;Bottom;IMG1
+17;;;42.6254;-42.4465;0;Bottom;TXT3
+18;;;4.07086;-4.77521;0;Bottom;Hole4
+19;;DIP (Dual Inline) [THT];19.3108;-94.9453;0;Bottom;Pro Micro
+20;;;76.9904;-76.1781;-90;Bottom;TXT2
+21;;;76.4609;-4.77521;0;Bottom;Hole3
+22;;;37.8123;-110.854;21;Bottom;IMG2
+23;;;77.1808;-106.684;-90;Bottom;TXT2
+24;;;4.07086;-116.535;0;Bottom;Hole2
+25;;;77.0083;-45.6688;-90;Bottom;TXT2
+26;;;76.4609;-116.535;0;Bottom;Hole1
+27;100k;THT;47.2508;-70.8153;0;Bottom;R7
+28;;;26.9308;-36.5253;0;Bottom;Hole6
+29;;;77.0063;-25.4027;-90;Bottom;TXT2
+30;100k;THT;47.2508;-108.915;0;Bottom;R1
+31;;;11.6908;-36.5253;0;Bottom;Hole5
+32;;;77.0083;-35.5997;-90;Bottom;TXT2
