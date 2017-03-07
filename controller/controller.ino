@@ -14,6 +14,7 @@
 
 int buttonCount = 10;
 int buttonPins[] = {2, 3, 4, 5, 6, 7, 8, 9, 10, 16};
+
 int buttonKeys[] = {
   KEY_RIGHT_ARROW, 
   KEY_LEFT_ARROW, 
@@ -25,8 +26,9 @@ int buttonKeys[] = {
   32, // space
   KEY_F1,
   KEY_F2 
-}; 
-int buttonStates[] = {0,0,0,0,0,0,0,0,0}; // array to store button states
+};
+*/ 
+int buttonStates[] = {0,0,0,0,0,0,0,0,0,0}; // array to store button states
 
 void setup()
 {
