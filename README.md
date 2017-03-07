@@ -8,7 +8,6 @@ DIY arcade button USB controller
   - http://fritzing.org
 
 ## preview
-<img align="left" src="pcb/preview-top.png?raw=true" width="45%" /> 
-<img align="right" src="pcb/preview-bottom.png?raw=true" width="45%" />
+![photo of arcade usb controller](arcade_usb.jpg?raw=true)
 
 
