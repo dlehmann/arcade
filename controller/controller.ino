@@ -27,7 +27,7 @@ int buttonKeys[] = {
   KEY_F1,
   KEY_F2 
 };
-*/ 
+
 int buttonStates[] = {0,0,0,0,0,0,0,0,0,0}; // array to store button states
 
 void setup()
